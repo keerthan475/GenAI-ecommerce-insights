@@ -7,7 +7,7 @@
 ---
 
 ## 🎬 Demo Video
-📺 [Unlisted YouTube or Google Drive Link Here]
+📺 https://drive.google.com/file/d/1GdcGNo5hLESsDPs_cmzip5Xu2NBrkZgT/view?usp=sharing
 
 ---
 
