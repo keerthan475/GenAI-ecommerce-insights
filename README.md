@@ -62,10 +62,7 @@ safe_execute() → Sanitized execution
 ↓
 pandas → Chart → Streamlit output
 
-yaml
-Copy code
 
----
 
 ## 🧩 Key Components
 
